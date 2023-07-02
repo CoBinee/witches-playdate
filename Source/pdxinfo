@@ -1,0 +1,7 @@
+name=Witches
+author=CoBinee
+description=The battle between light and darkness by two witches.
+bundleID=no2.cobin.witches
+buildNumber=1
+version=0.8.0
+imagePath=launcher
